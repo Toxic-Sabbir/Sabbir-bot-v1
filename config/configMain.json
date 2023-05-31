@@ -1,16 +1,16 @@
 {
-    "NAME": "𝐒𝐤𝐲𝐁𝐨𝐭 ✌️",
-    "PREFIX": "!",
+    "NAME": "Sabbir-test✌️",
+    "PREFIX": "-",
     "ADMIN": [
-        "IDADMIN"
+        "100090284160878"
     ],
     "EXCEPTION": [
-        "IDEXCEPTION"
+        "100090284160878"
     ],
-    "LANGUAGE_SYS": "vi_VN",
+    "LANGUAGE_SYS": "en_us",
     "DATABASE": {
-        "type": "local",
-        "uriMongodb": "mongodb+srv:<username>: <password> @<cluster-url> /<database>?retryWrites=true&w=majority",
+        "type": "mongodb",
+        "uriMongodb": "mongodb+srv://Sabbir:jannat@sabbirbot.1il6shb.mongodb.net/?retryWrites=true&w=majority",
         "notes": "Choose *local* or *mongodb*"
     },
     "AUTOUNSEND": {
